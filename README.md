@@ -1,6 +1,5 @@
 # basic-flutter-2023
 2023年に改修したBasic Flutterのテンプレートリポジトリです。
-GitHub Actionsの動作確認中
 
 ### 自分で課題を進めるためのリポジトリを作成する
 1. このリポジトリ上で`Use this template`をクリック
